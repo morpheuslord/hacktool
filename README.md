@@ -9,4 +9,12 @@ the tools can be used for password hijack and sql injection into websties in fur
 # sampler 
 this tool is written in go program if u are fimiliar or if u have GO installed u can use it as ur wish.
 
-# 
+# SQLmap
+this is a python tool u can use it with python if u dont have some of the required utils u can install it with the help of PIP(pip)
+or u can convert it into a exe by installing pyinstaller
+
+# convertion py to exe 
+(install pyinstaller - pip install pyinstaller)
+after installing 
+(pyinstaller sqlmap.py/the file name)
+there u have converted a py 2 exe 
