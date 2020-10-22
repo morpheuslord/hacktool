@@ -5,3 +5,8 @@ the tools can be used for password hijack and sql injection into websties in fur
 ***************************************************************************************************************
 **NOTE- WITHOUT PERMISSION U MUST NOT USE THESE TOOLS FOR WRONG PURPOSES                                     **
 ***************************************************************************************************************
+
+# sampler 
+this tool is written in go program if u are fimiliar or if u have GO installed u can use it as ur wish.
+
+# 
